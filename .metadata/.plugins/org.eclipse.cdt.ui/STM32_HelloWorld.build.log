@@ -1,0 +1,6 @@
+13:51:52 **** Build of configuration Debug for project STM32_HelloWorld ****
+make -j4 all 
+make: Nothing to be done for 'all'.
+
+13:51:53 Build Finished (took 1s.281ms)
+

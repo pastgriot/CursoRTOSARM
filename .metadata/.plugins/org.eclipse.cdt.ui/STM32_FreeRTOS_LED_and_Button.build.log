@@ -1,0 +1,6 @@
+01:13:04 **** Build of configuration Debug for project STM32_FreeRTOS_LED_and_Button ****
+make -j4 all 
+Command canceled
+
+01:13:05 Build Cancelled (took 801ms)
+

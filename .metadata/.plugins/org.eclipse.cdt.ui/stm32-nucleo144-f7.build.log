@@ -1,0 +1,10 @@
+15:56:57 **** Rebuild of configuration Debug for project stm32-nucleo144-f7 ****
+Info: Internal Builder is used for build
+arm-none-eabi-gcc -mthumb -mfloat-abi=soft -O0 -g3 -Wall -fmessage-length=0 -ffunction-sections -c -o "Middlewares\\Third_Party\\FreeRTOS\\Source\\queue.o" "..\\Middlewares\\Third_Party\\FreeRTOS\\Source\\queue.c" 
+..\Middlewares\Third_Party\FreeRTOS\Source\queue.c:78:22: fatal error: FreeRTOS.h: No such file or directory
+ #include "FreeRTOS.h"
+                      ^
+compilation terminated.
+
+15:56:58 Build Finished (took 72ms)
+
